@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Owner_of_ModHive-a855f7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/TD2DR_Modder-ec4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Silly_Dev-22d3ee?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=4&section=header" width="100%" />
 </p>
 
