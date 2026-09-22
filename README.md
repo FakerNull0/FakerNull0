@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner0.png" alt="FakerNull0" width="420" />
+  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner.png" alt="FakerNull0" width="420" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EC4899&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+profile!+%F0%9F%8C%B9;I'm+FakerNull0;Or+just+Faker;In+past+%E2%80%94+Mini+Exe;TD2DR+Modder+%26+Silly+dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EC4899&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+profile!+%F0%9F%8C%B9;I'm+FakerNull0;Owner+of+ModHive+Studio;TD2DR+Modder+%26+Silly+dev;In+past+%E2%80%94+Mini+Exe" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +18,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=4&section=header" width="100%" />
 </p>
 
-- 🌹 Owner & Leader of [ModHive Studio](https://github.com/ModHive-Studio)
-- 🎮 TD2DR Modder
-- 🧪 Silly dev
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/output/github-snake-dark.svg" alt="Snake" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="800" />
+</p>
 
 <p align="center">
   <img src="./metrics/github-metrics.svg" alt="Metrics" width="480" />
