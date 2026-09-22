@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="./metrics/github-metrics.svg" alt="Metrics" />
+</p>
+
+---
+
 I'm a **FakerNull0**! Or just **Faker**.
 
 In past: **Mini Exe**
@@ -20,6 +26,3 @@ In past: **Mini Exe**
 <p align="center">
   Also you can check <a href="https://github.com/M87FMP4">here</a> my activity
 </p>
-
-![GitHub Stats](./metrics/github-stats.svg)
-![Top Languages](./metrics/top-languages.svg)
