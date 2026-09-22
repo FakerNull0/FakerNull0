@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner.jpg" alt="FakerNull0 banner" width="400" />
+  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner.jpg" alt="FakerNull0 banner" width="600" />
 </p>
 
 <h1 align="center">Welcome to my profile! 🌹</h1>
