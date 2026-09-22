@@ -20,3 +20,6 @@ In past: **Mini Exe**
 <p align="center">
   Also you can check <a href="https://github.com/M87FMP4">here</a> my activity
 </p>
+
+![GitHub Stats](./metrics/github-stats.svg)
+![Top Languages](./metrics/top-languages.svg)
