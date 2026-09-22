@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner.png" alt="FakerNull0" width="420" />
+  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner0.png" alt="FakerNull0" width="610" />
 </p>
 
 <p align="center">
@@ -20,10 +20,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/output/github-snake-dark.svg" alt="Snake" />
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="800" />
 </p>
 
 <p align="center">
