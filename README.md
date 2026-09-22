@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner.png" alt="FakerNull0" width="420" />
+  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner0.png" alt="FakerNull0" width="420" />
 </p>
 
 <p align="center">
@@ -18,13 +18,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=4&section=header" width="100%" />
 </p>
 
-- Owner & Leader of [ModHive Studio](https://github.com/ModHive-Studio)
-- TD2DR Modder
-- Silly dev
+- 🌹 Owner & Leader of [ModHive Studio](https://github.com/ModHive-Studio)
+- 🎮 TD2DR Modder
+- 🧪 Silly dev
 
 <p align="center">
-  <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="420" />
-  <img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="420" />
+  <img src="./metrics/github-metrics.svg" alt="Metrics" width="480" />
 </p>
 
 <p align="center">
