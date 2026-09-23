@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=4&section=header" width="100%" />
-</p>
+# <p align="center">
+#   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=4&section=header" width="100%" />
+# </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/output/github-snake-dark.svg" alt="Snake" />
