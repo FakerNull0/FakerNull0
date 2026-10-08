@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/main/AmyRose_Banner0.png" alt="FakerNull0" width="610" />
-</p>
-
+Something..?
 <p align="center">
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/hype-squad-brilliance.svg" alt="HypeSquad Brilliance" height="28" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/active-developer.svg" alt="Active Developer" height="28" />
