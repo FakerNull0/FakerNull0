@@ -1,71 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FakerNull0 — Developer & Modder</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>FakerNull0 — System</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>FakerNull0</h1>
-        <p class="tagline">TD2DR Modder • Developer • Russian</p>
-        <a href="https://gamejolt.com/@FakerNull0" class="btn" target="_blank">My GameJolt Profile</a>
-    </header>
 
-    <main>
-        <section class="about">
-            <h2>About Me</h2>
-            <p>Hi! I'm FakerNull0 — a developer and modder mostly working on projects for <strong>The Disaster 2D Remake</strong> (TD2DR). I do coding, level design, porting, and spriting.</p>
-            <p>I speak Russian and I'm active in the modding community.</p>
-        </section>
+<div id="boot" class="boot">
+    <div class="boot-logo">FakerNull0</div>
+    <div class="boot-bar"><span></span></div>
+</div>
 
-        <section class="projects">
-            <h2>Projects I've Worked On</h2>
-            <div class="project-list">
-                <article class="project-card">
-                    <h3>UltraText Framework</h3>
-                    <p class="role">Spriter <span>(up to Alpha 5)</span></p>
-                    <p class="desc">An open project featuring a custom text system built on CTF 2.5.</p>
-                    <a href="https://gamejolt.com/games/UltraTextFrameworkGamejoltPage/1083841" target="_blank">Project page →</a>
-                </article>
+<div id="desktop" class="desktop">
+    <div id="desktop-icons" class="desktop-icons"></div>
+</div>
 
-                <article class="project-card">
-                    <h3>TD2DR: One Last Round</h3>
-                    <p class="role">Coder • Level Designer • Beta Tester</p>
-                    <p class="desc">A mod with new maps and gameplay mechanics.</p>
-                    <a href="https://gamejolt.com/games/Olr-Project-Td2dr/1077062" target="_blank">Project page →</a>
-                </article>
+<div id="start-menu" class="start-menu hidden"></div>
 
-                <article class="project-card">
-                    <h3>TD2DR: The Last Reset</h3>
-                    <p class="role">Coder • Porter</p>
-                    <p class="desc">A modification with horror elements and reworked content.</p>
-                    <a href="https://gamejolt.com/games/TD2DRTheLastResetMod/907532" target="_blank">Project page →</a>
-                </article>
+<div class="taskbar">
+    <button id="start-btn" class="start-btn" aria-label="Start">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+            <rect x="0" y="0" width="7" height="7" rx="1.5"/>
+            <rect x="9" y="0" width="7" height="7" rx="1.5"/>
+            <rect x="0" y="9" width="7" height="7" rx="1.5"/>
+            <rect x="9" y="9" width="7" height="7" rx="1.5"/>
+        </svg>
+    </button>
+    <div id="taskbar-items" class="taskbar-items"></div>
+    <div class="clock">
+        <div class="clock-time" id="clock-time">--:--</div>
+        <div class="clock-date" id="clock-date">—</div>
+    </div>
+</div>
 
-                <article class="project-card">
-                    <h3>TD2DR: RUS</h3>
-                    <p class="role">Creator • Coder</p>
-                    <p class="desc">Russian localization and adaptation of the project for the Russian-speaking community.</p>
-                    <a href="https://gamejolt.com/games/TD2DR-RUS/1072577" target="_blank">Project page →</a>
-                </article>
-            </div>
-        </section>
-
-        <section class="contacts">
-            <h2>Links</h2>
-            <ul>
-                <li><a href="https://gamejolt.com/@FakerNull0" target="_blank">GameJolt</a></li>
-                <li><a href="https://github.com/FakerNull0" target="_blank">GitHub</a></li>
-            </ul>
-        </section>
-    </main>
-
-    <footer>
-        <p>© 2026 FakerNull0</p>
-    </footer>
-
-    <script src="script.js"></script>
+<script src="os.js"></script>
 </body>
 </html>
