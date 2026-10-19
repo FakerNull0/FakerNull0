@@ -1,4 +1,4 @@
----
+Something..?
 
 ### 🔗 My links and projects:
 * 🌐 **Personal website:** [fakernull0.github.io](https://fakernull0.github.io/FakerNull0/)
@@ -7,8 +7,7 @@
 * 🎮 **GameJolt:** [@FakerNull0](https://gamejolt.com/@FakerNull0)
 
 💻 Linux and Windows user
----
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/output/github-snake-dark.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/FakerNull0/FakerNull0/output/github-snake-dark.svg" alt="Snake" />
 </p>
