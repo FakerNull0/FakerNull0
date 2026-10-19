@@ -1,5 +1,3 @@
-Something..?
-
 ---
 
 ### 🔗 My links and projects:
@@ -8,6 +6,7 @@ Something..?
 * 🏢 **Organization:** [M87FMP4](https://github.com/M87FMP4) *(I’m active here)*
 * 🎮 **GameJolt:** [@FakerNull0](https://gamejolt.com/@FakerNull0)
 
+💻 Linux and Windows user
 ---
 
 <p align="center"> 
