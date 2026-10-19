@@ -1,12 +1,5 @@
 Something..?
 
-[![HypeSquad Brilliance](https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/hype-squad-brilliance.svg)](https://discord.com/)
-[![Active Developer](https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/active-developer.svg)](https://discord.com/)
-[![Completed a Quest](https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/quest.png)](https://discord.com/)
-[![Orbs Apprentice](https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/orb.svg)](https://discord.com/)
-[![Last Meadow Online](https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/last-meadow.png)](https://discord.com/)
-[![Originally known as](https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/username.png)](https://discord.com/)
-
 ---
 
 ### 🔗 My links and projects:
